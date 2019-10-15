@@ -186,6 +186,8 @@
    - **Valencia.rb** (web: [valenciarb.org](http://valenciarb.org), github: [valenciarb](https://github.com/valenciarb))
 - @ Ciudad Real
    - **CiudadReal.rb** (web: [ciudadrealrb.org](http://ciudadrealrb.org), github: [ciudadrealrb](https://github.com/ciudadrealrb))
+- @ Andalucia
+   - **Andalucia.rb** (web: [andalucia.onruby.eu](http://andalucia.onruby.eu), github: [malagarb](https://github.com/malagarb))   
 
 #### Portugal (pt)
 
